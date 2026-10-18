@@ -5,4 +5,6 @@
 int main() {
 	float x, y, z;
 	float a, b;
+	printf(" x, y, z = ");
+	scanf("%f %f %f", &x, &y, &z);
 }
