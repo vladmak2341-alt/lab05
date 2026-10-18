@@ -3,5 +3,6 @@
 #include <math.h>
 
 int main() {
-
+	float x, y, z;
+	float a, b;
 }
